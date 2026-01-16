@@ -96,3 +96,5 @@ Sinta-se à vontade para:
 ## 🌿 Planta Aqui
 
 Transformando curiosidade em conhecimento botânico, uma foto por vez.
+
+<img src="planta-aqui/imagem.png" alt="imagem do site" width="300">
