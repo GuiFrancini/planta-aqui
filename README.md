@@ -97,4 +97,4 @@ Sinta-se à vontade para:
 
 Transformando curiosidade em conhecimento botânico, uma foto por vez.
 
-<img src="planta-aqui/imagem.png" alt="imagem do site" width="300">
+<img src="imagem.png" alt="imagem do site" width="300">
